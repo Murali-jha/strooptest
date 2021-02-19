@@ -1,0 +1,128 @@
+[
+    {
+        "1": "Orange",
+        "2": "Pink",
+        "3": "Grey",
+        "4": "Yellow",
+        "5": "Red",
+        "6": "Teal",
+        "7": "Purple",
+        "8": "Yellow",
+        "9": "Indigo",
+        "10": "Blue",
+        "11": "Yellow",
+        "12": "Purple",
+        "13": "Brown",
+        "14": "Pink",
+        "15": "Grey"
+    },
+    {
+        "1": {
+            "a": "Green",
+            "b": "Orange",
+            "c": "Yellow",
+            "d": "Amber"
+        },
+        "2": {
+            "a": "Grey",
+            "b": "Teal",
+            "c": "Pink",
+            "d": "Blue"
+        },
+        "3": {
+            "a": "Pink",
+            "b": "Teal",
+            "c": "Light Pink",
+            "d": "Light Teal"
+        },
+        "4": {
+            "a": "Pink",
+            "b": "Mirage",
+            "c": "Deep Pink",
+            "d": "Orange"
+        },
+        "5": {
+            "a": "Purple Accent",
+            "b": "Grey",
+            "c": "Purple",
+            "d": "Red"
+        },
+        "6": {
+            "a": "Green",
+            "b": "Yellow",
+            "c": "Orange",
+            "d": "Amber"
+        },
+        "7": {
+            "a": "Red",
+            "b": "Red Accent",
+            "c": "Green",
+            "d": "Yellow"
+        },
+        "8": {
+            "a": "Amber",
+            "b": "Blue",
+            "c": "Indigo",
+            "d": "Grey"
+        },
+        "9": {
+            "a": "Mirage",
+            "b": "Orange",
+            "c": "Black",
+            "d": "Light Blue"
+        },
+        "10": {
+            "a": "Green",
+            "b": "Yellow",
+            "c": "Pink",
+            "d": "Indigo"
+        },
+        "11": {
+            "a": "Pink",
+            "b": "Yellow",
+            "c": "Brown",
+            "d": "Black"
+        },
+        "12": {
+            "a": "Red",
+            "b": "Yellow",
+            "c": "Pink",
+            "d": "Indigo"
+        },
+        "13": {
+            "a": "White",
+            "b": "Yellow",
+            "c": "Pink",
+            "d": "Orange"
+        },
+        "14": {
+            "a": "Green",
+            "b": "Yellow",
+            "c": "Pink",
+            "d": "Grey"
+        },
+        "15": {
+            "a": "Brown",
+            "b": "Purple",
+            "c": "Pink",
+            "d": "Yellow"
+        }
+    },
+    {
+        "1": "Green",
+        "2": "Blue",
+        "3": "Teal",
+        "4": "Pink",
+        "5": "Purple",
+        "6": "Orange",
+        "7": "Red",
+        "8": "Amber",
+        "9": "Black",
+        "10": "Indigo",
+        "11": "Brown",
+        "12": "Pink",
+        "13": "Yellow",
+        "14": "Grey",
+        "15": "Purple"
+    }
+]
